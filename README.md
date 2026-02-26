@@ -10,26 +10,36 @@ This project simulates functionality commonly used in e-commerce platforms like 
 
 ### 🔝 Promo Bar & Store Layout
 
-![Promo Bar Screenshot](images/screenshot1.png)
+
+<img width="1920" height="915" alt="Screenshot 2026-02-26 194020" src="https://github.com/user-attachments/assets/02f9018a-4715-4514-801a-11e8bf334a0a" />
 
 ---
 
 ### 🛍️ Free Shipping Unlocked State
+<img width="1920" height="910" alt="Screenshot 2026-02-26 194013" src="https://github.com/user-attachments/assets/e687724d-e2c0-45b1-adba-6ecdd42120e7" />
 
-![Free Shipping Screenshot](images/screenshot2.png)
+
+
+---
+
+## 🎥 Demo Video (Loom Walkthrough)
+
+👉 **Watch Full Demo Here:**  
+https://www.loom.com/share/a6b457856e2c47ef9300dff7dd2adf1c
 
 ---
 
 ## 🌐 Live Demo
 
-👉 **Live URL:** [Add your deployed link here]  
-(Hosted on Vercel / Netlify / GitHub Pages)
+👉 **Live URL:**  
+https://krishkushwaha11.github.io/Store-Website/
 
 ---
 
 ## 📂 Repository
 
-👉 **GitHub Repo:** [Add your repo link here]
+👉 **GitHub Repo:**  
+https://github.com/krishkushwaha11/Store-Website
 
 ---
 
@@ -107,6 +117,6 @@ This project simulates functionality commonly used in e-commerce platforms like 
 ## ▶️ Getting Started (Run Locally)
 
 ```bash
-git clone <your-repo-link>
-cd <project-folder>
+git clone https://github.com/krishkushwaha11/Store-Website.git
+cd Store-Website
 open index.html
