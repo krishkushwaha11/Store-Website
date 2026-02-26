@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Free Shipping Promo code</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+ 
+  <link rel="stylesheet" href="index.css">
+</head>
+
+<body>
+
+  <!Promo Bar >
+  <div class="promo-bar" id="promoBar">
+    <div class="promo-inner">
+
+      <div class="promo-content">
+        <div class="promo-msg" id="promoMsg">
+          You are <strong>$100</strong> away from Free Shipping!
+        </div>
+
+        <div class="progress-track">
+          <div class="progress-fill" id="progressFill"></div>
+        </div>
+      </div>
+
+      <button class="close-btn" id="closeBtn">✖</button>
+
+    </div>
+  </div>
+
+  <!--Store -->
+  <main>
+    <header>
+      <h1>Our Products</h1>
+      <p class="cart-total">
+        Cart Total: <span id="cartDisplay">$0</span>
+      </p>
+    </header>
+
+    <section class="products" id="productGrid"></section>
+
+    <div class="clear-wrap">
+      <button class="btn btn-outline" id="clearBtn">
+        Clear Cart
+      </button>
+    </div>
+  </main>
+
+  <!-- JS -->
+  <script src="index.js"></script>
+
+</body>
+</html>
